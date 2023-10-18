@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1680607165 source:c:\users\gabri\onedrive\documentos\codebloks\periodo 2\jogodavida_m1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+
+1680607165 source:c:\users\gabri\onedrive\documentos\ciência da computação\2 periodo 2023.1\algoritmos e programação ii\jogodavida_m1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+
